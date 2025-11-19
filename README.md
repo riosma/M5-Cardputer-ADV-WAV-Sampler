@@ -1,6 +1,6 @@
 # M5Cardputer ADV WAV Sampler
 
-A 10-slot audio sampler for the M5Cardputer that records and plays back WAV files directly from an SD card.
+A 10-slot audio sampler for the M5Cardputer ADV that records and plays back WAV files directly from an SD card.
 
 ![M5Cardputer Sampler](https://img.shields.io/badge/Platform-M5Cardputer_ADV-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D)
