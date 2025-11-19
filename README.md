@@ -69,6 +69,10 @@ static constexpr const float recording_gain = 2.0f;       // Recording amplifica
 static const int NUM_SAMPLES = 10;                        // Number of sample slots
 ```
 
+## Authors
+
+- [@riosma](https://www.github.com/riosma)
+
 
 ## 📝 License
 
