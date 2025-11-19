@@ -17,7 +17,7 @@ A 10-slot audio sampler for the M5Cardputer that records and plays back WAV file
 
 ## 🚀 Installation
 
-- Use the sampler.ino for a barebones installation
+- Use the sampler.ino for a standalone installation
 - Use the samplerM5.ino to flash with [M5 Launcher](https://github.com/bmorcelli/Launcher)
 
 
