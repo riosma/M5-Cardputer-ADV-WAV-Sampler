@@ -62,7 +62,6 @@ A 10-slot audio sampler for the M5Cardputer ADV that records and plays back WAV 
 
 ## 🔧 Customization
 
-You can modify these constants in the code to customize behavior:
 ```cpp
 static constexpr const size_t max_duration_seconds = 10;  // Maximum recording duration
 static constexpr const float recording_gain = 2.0f;       // Recording amplification
