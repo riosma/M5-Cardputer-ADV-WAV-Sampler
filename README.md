@@ -65,7 +65,6 @@ A 10-slot audio sampler for the M5 Cardputer ADV that records and plays back WAV
 ```cpp
 static constexpr const size_t max_duration_seconds = 10;  // Maximum recording duration
 static constexpr const float recording_gain = 2.0f;       // Recording amplification
-static const int NUM_SAMPLES = 10;                        // Number of sample slots
 ```
 
 ## Authors
