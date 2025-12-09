@@ -13,7 +13,7 @@ A 10-slot audio sampler for the M5 Cardputer ADV that records and plays back WAV
 - **High-ish Quality Audio** - 1024-sample buffer with 2x recording gain
 - **Up to 10 Seconds** - Each sample can be up to 10 seconds long
 - **Looping Playback** - Samples loop continuously until stopped
-- **Live Volume Control** - Adjust playback volume on-the-fly using `,` and `/` keys
+- **Live Volume Control** - Adjust playback volume using `,` and `/` keys
 
 ## 🚀 Installation
 
